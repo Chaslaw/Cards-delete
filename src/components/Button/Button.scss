@@ -1,0 +1,18 @@
+.button {
+    padding: 10px 20p;
+    text-align: center;
+    text-transform: uppercase;
+    border: solid 1px;
+    background: none;
+
+
+    &.red {
+        border-color: red;
+        color: red;
+    }
+
+    &.green {
+        border-color: green;
+        color: green;
+    }
+}

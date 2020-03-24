@@ -1,0 +1,25 @@
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+
+&.black {
+    background-color: black;
+    border-bottom: red 2px ;
+}
+
+&.gray {
+    background-color: #333;
+    border-bottom: red 2px solid ;
+}
+
+.logo {
+width: 100px;
+
+}
+
+
+
+}
